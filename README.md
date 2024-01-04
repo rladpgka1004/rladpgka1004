@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<-- 뱃지 -->
-<a href="https://www.instagram.com/ye_amii/" target="_blank"><img src="https://img.shields.io/badge/#E4405F-#f4f2f0?style=social&logo=appveyor&logoColor=00000"/></a>
+<a href="https://www.instagram.com/ye_amii/" target="_blank"><img src="https://img.shields.io/badge/instagram-00000?style=social&logo=appveyor&logoColor=00000"/></a>
